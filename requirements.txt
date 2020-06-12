@@ -129,3 +129,5 @@ webencodings==0.5.1
 werkzeug==0.15.1
 wheel==0.33.1 ; python_version >= '3'
 widgetsnbextension==3.4.2
+
+rsa>=4.1 # not directly required, pinned by Snyk to avoid a vulnerability
